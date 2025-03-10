@@ -1,9 +1,8 @@
 module imagelib
 
-go 1.23.4
+go 1.24.1
 
 require (
-	github.com/blang/semver v3.5.1+incompatible
 	github.com/google/cel-go v0.24.1
 	github.com/google/go-containerregistry v0.20.3
 	github.com/stretchr/testify v1.9.0
