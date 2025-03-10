@@ -1,0 +1,12 @@
+certs
+Gopkg.lock
+gh-pages/public
+_output
+coverage.txt
+.idea
+.DS_Store
+.tools
+.gopath
+.dist
+.manifest
+vendor/
